@@ -5,7 +5,8 @@
 - Git, Linux (basic)
 
 #### 📜 My certificates:
-- [Basic Statistics](https://stepik.org/cert/1569856)
+- [Basic Statistics I](https://stepik.org/cert/1569856)
+- [Basic Statistics II](https://stepik.org/cert/1584809)
 
 #### 💻 My projects:
 - [Terminal Checkers](https://github.com/AndrewSalygin/checkers)
