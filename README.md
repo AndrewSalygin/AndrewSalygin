@@ -7,6 +7,7 @@
 #### 📜 My certificates:
 - [Basic Statistics I](https://stepik.org/cert/1569856)
 - [Basic Statistics II](https://stepik.org/cert/1584809)
+- [Introduction to DS and ML](https://stepik.org/cert/1596482)
 
 #### 💻 My projects:
 - [Terminal Checkers](https://github.com/AndrewSalygin/checkers)
