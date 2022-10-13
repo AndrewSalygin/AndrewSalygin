@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋
 ---
 #### 🛠 Skills:
-- C++, Python
+- C++, Python, C#
 - Git, Linux (basic)
 
 #### 📜 My certificates:
