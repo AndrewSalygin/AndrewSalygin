@@ -10,7 +10,10 @@
 - [Introduction to DS and ML](https://stepik.org/cert/1596482)
 
 #### 💻 My projects:
-- [Terminal Checkers](https://github.com/AndrewSalygin/checkers)
+- [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
+- [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
+- Haffman Code C# - soon
+- Program for Training Center C# - soon
 
 #### 📫 Contacts:
 - Telegram: [@Zirree](https://t.me/Zirree)
