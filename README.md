@@ -12,7 +12,7 @@
 #### 💻 My projects:
 - [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
 - [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
-- Huffman Code C# - soon
+- [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
 - Program for Training Center C# - soon
 
 #### 📫 Contacts:
