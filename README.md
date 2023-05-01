@@ -4,7 +4,7 @@
 - C++, Python, C#, Assembly, Java
 - Git, Linux (basic)
 - PostgreSQL
-##### 🐍 Python:
+#### 🐍 Python:
 - numpy, scipy
 - pandas
 - matplotlib, seaborn, plotly
