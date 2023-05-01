@@ -3,6 +3,7 @@
 #### 🛠 Skills:
 - C++, Python, C#, Assembly, Java
 - Git, Linux (basic)
+- PostgreSQL
 
 #### 📜 My certificates:
 - [Basic Statistics I](https://stepik.org/cert/1569856)
