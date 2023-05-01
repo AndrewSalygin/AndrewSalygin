@@ -21,7 +21,8 @@
 - [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
 - [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
 - [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
-- Program for Training Center C# - soon
+- [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole)
+- Windows program for Training Center C# - soon
 
 #### 📫 Contacts:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
