@@ -2,7 +2,7 @@
 ---
 #### 🛠 Skills:
 - C++, Python, C#, Assembly, Java
-- Git, Linux (basic)
+- Git, Linux
 - PostgreSQL
 #### 🐍 Python:
 - numpy, scipy
