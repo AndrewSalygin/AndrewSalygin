@@ -17,7 +17,7 @@
 - Program for Training Center C# - soon
 
 #### 📫 Contacts:
-- Telegram: [@Zirree](https://t.me/Zirree)
+- Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
 
 <!--
 **AndrewSalygin/AndrewSalygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
