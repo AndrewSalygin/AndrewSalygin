@@ -4,6 +4,13 @@
 - C++, Python, C#, Assembly, Java
 - Git, Linux (basic)
 - PostgreSQL
+##### 🐍 Python:
+- numpy, scipy
+- pandas
+- matplotlib, seaborn, plotly
+- statsmodels, sklearn
+- imblearn
+- nltk
 
 #### 📜 My certificates:
 - [Basic Statistics I](https://stepik.org/cert/1569856)
