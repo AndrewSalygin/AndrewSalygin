@@ -22,7 +22,7 @@
 - [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
 - [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
 - [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
-- Windows program for Training Center C# - soon
+- [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
 
 #### 📫 Contacts:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
