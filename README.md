@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew 👋
 ---
 #### 🛠 Skills:
-- C++, Python, C#, Assembly, Java
+- Java, Python, C#, C++, Assembly
 - Git, Linux
 - PostgreSQL
 #### 🐍 Python:
