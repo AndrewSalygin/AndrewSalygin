@@ -24,8 +24,9 @@
 - [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
 - [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
 
-#### 📫 Contacts:
+#### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
+- LeetCode: [AndrewSalygin](https://leetcode.com/AndrewSalygin/)
 
 <!--
 **AndrewSalygin/AndrewSalygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
