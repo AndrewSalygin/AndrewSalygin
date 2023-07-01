@@ -23,6 +23,7 @@
 - [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
 - [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
 - [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
+- [The problem of choosing a metric Python](https://github.com/AndrewSalygin/metrics)
 
 #### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
