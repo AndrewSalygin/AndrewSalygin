@@ -13,9 +13,10 @@
 - nltk
 
 #### 📜 My certificates:
-- [Basic Statistics I](https://stepik.org/cert/1569856)
-- [Basic Statistics II](https://stepik.org/cert/1584809)
-- [Introduction to DS and ML](https://stepik.org/cert/1596482)
+- [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
+- [Introduction to DS and ML 2022](https://stepik.org/cert/1596482)
+- [Basic Statistics I 2022](https://stepik.org/cert/1569856)
+- [Basic Statistics II 2022](https://stepik.org/cert/1584809)
 
 #### 💻 My projects:
 - [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
