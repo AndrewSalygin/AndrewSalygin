@@ -4,6 +4,10 @@
 - Java, Python, C#, C++, Assembly
 - Git, Linux
 - PostgreSQL
+
+#### ☕︎ Java:
+- Spring Core
+
 #### 🐍 Python:
 - numpy, scipy
 - pandas
