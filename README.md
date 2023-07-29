@@ -6,7 +6,7 @@
 - PostgreSQL
 
 #### ☕︎ Java:
-- Spring Core
+- Spring (Core, MVC, JDBC)
 
 #### 🐍 Python:
 - numpy, scipy
