@@ -4,6 +4,7 @@
 - Java, Python, C#, C++, Assembly
 - Git, Linux
 - PostgreSQL
+- Maven
 
 #### ☕︎ Java:
 - Spring (Core, MVC, JDBC)
