@@ -34,7 +34,7 @@
 #### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
 - LeetCode: [AndrewSalygin](https://leetcode.com/AndrewSalygin/)
-
+- CodeForces: [Eety](https://codeforces.com/profile/Eety)
 <!--
 **AndrewSalygin/AndrewSalygin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
