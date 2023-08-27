@@ -2,7 +2,7 @@
 ---
 #### 🛠 Skills:
 - Java, Python, C#, C++, Assembly
-- Git, Linux
+- Git, Docker, Linux
 - PostgreSQL
 - Gradle
 - Maven
