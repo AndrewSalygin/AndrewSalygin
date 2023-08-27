@@ -4,10 +4,12 @@
 - Java, Python, C#, C++, Assembly
 - Git, Linux
 - PostgreSQL
+- Gradle
 - Maven
 
 #### ☕︎ Java:
-- Spring (Core, MVC, JDBC)
+- Spring (Core, Web, DAO, ORM, Boot, REST)
+- Hibernate
 
 #### 🐍 Python:
 - numpy, scipy
