@@ -10,6 +10,7 @@
 #### ☕︎ Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - Hibernate
+- JUnit, Mockito
 
 #### 🐍 Python:
 - numpy, scipy
