@@ -4,8 +4,7 @@
 - Java, Python, C#, C++, Assembly
 - Git, Docker, Linux
 - PostgreSQL
-- Gradle
-- Maven
+- Gradle, Maven
 
 #### ☕︎ Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
