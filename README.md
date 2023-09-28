@@ -10,6 +10,7 @@
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - Hibernate
 - JUnit, Mockito
+- Slick2D
 
 #### 🐍 Python:
 - numpy, scipy
