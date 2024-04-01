@@ -5,11 +5,11 @@
 - Git, Docker, Linux
 - PostgreSQL, MSSQL
 - Gradle, Maven
+- Liquibase
 
 #### ☕︎ Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - Hibernate
-- Liquibase
 - JUnit, Mockito
 - Slick2D
 
