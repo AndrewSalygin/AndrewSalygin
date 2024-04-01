@@ -33,6 +33,11 @@
 - [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
 - [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
 - [The problem of choosing a metric Python](https://github.com/AndrewSalygin/metrics)
+- [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
+- [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
+- [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-2023)
+- [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/java-course-2023-backend)
+
 
 #### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
