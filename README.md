@@ -28,17 +28,16 @@
 - [Basic Statistics II 2022](https://stepik.org/cert/1584809)
 
 #### 💻 My projects:
-- [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
-- [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
-- [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
-- [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
-- [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
-- [The problem of choosing a metric Python](https://github.com/AndrewSalygin/metrics)
-- [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
-- [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
-- [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-2023)
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/java-course-2023-backend)
-
+- [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-2023)
+- [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
+- [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
+- [The problem of choosing a metric Python](https://github.com/AndrewSalygin/metrics)
+- [Windows forms for Training Center C#](https://github.com/AndrewSalygin/forms_for_training_center)
+- [Console program for Training Center C#](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
+- [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
+- [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
+- [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
 
 #### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
