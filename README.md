@@ -1,14 +1,15 @@
 ### Hi there, I'm Andrew 👋
 ---
 #### 🛠 Skills:
-- Java, Python, C#, C++, Assembly
+- Java, Python
 - Git, Docker, Linux
-- PostgreSQL
+- PostgreSQL, MSSQL
 - Gradle, Maven
 
 #### ☕︎ Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
 - Hibernate
+- Liquibase
 - JUnit, Mockito
 - Slick2D
 
