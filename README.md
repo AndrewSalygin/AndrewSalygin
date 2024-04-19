@@ -2,14 +2,17 @@
 ---
 #### 🛠 Skills:
 - Java, Python
-- Git, Docker, Linux
+- Git, Docker, Kubernetes, Linux
 - PostgreSQL, MSSQL
 - Gradle, Maven
+- Prometheus, Grafana
+- Swagger
+- Kafka
 - Liquibase
+- Jira, Confluence
 
 #### ☕︎ Java:
 - Spring (Core, Web, DAO, ORM, Boot, REST)
-- Hibernate
 - JUnit, Mockito
 - Slick2D
 
@@ -23,13 +26,18 @@
 
 #### 📜 My certificates:
 - [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
+- [Hackathon: Simple Physics Data Science, Saratov State University, 2022](https://oec-static.sgu.ru/storage/oec-ruby/ipsilon//uploads/portfolio/file/user_file/304411/SGU1.jpg)
 - [Introduction to DS and ML 2022](https://stepik.org/cert/1596482)
 - [Basic Statistics I 2022](https://stepik.org/cert/1569856)
 - [Basic Statistics II 2022](https://stepik.org/cert/1584809)
 
+#### 💬 Languages:
+- English - B2 Upper intermediate
+- Russian - C2 Native Speaker
+
 #### 💻 My projects:
-- [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/java-course-2023-backend)
-- [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-2023)
+- [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
+- [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-tinkoff-2023)
 - [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
 - [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
 - [The problem of choosing a metric Python](https://github.com/AndrewSalygin/metrics)
