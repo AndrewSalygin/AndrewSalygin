@@ -2,13 +2,14 @@
 ---
 #### 🛠 Skills:
 - Java, Python
-- Git, Docker, Kubernetes, Linux
-- PostgreSQL, MSSQL
 - Gradle, Maven
-- Prometheus, Grafana
-- Swagger
-- Kafka
+- PostgreSQL, MSSQL
 - Liquibase
+- Docker, Kubernetes
+- Prometheus, Grafana
+- OpenAPI, Swagger
+- Kafka
+- Git, Linux
 - Jira, Confluence
 
 #### ☕︎ Java:
@@ -17,12 +18,13 @@
 - Slick2D
 
 #### 🐍 Python:
-- numpy, scipy
-- pandas
-- matplotlib, seaborn, plotly
-- statsmodels, sklearn
-- imblearn
-- nltk
+- Numpy, Scipy
+- Pandas
+- Matplotlib, Seaborn, Plotly
+- Statsmodels, Sklearn
+- Imblearn
+- Nltk
+- TensorFlow, Keras
 
 #### 📜 My certificates:
 - [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
