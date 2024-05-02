@@ -24,6 +24,7 @@
 - Statsmodels, Sklearn
 - Imblearn
 - Nltk
+- XGBoost, CatBoost
 - TensorFlow, Keras
 
 #### 📜 My certificates:
