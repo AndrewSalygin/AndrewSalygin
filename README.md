@@ -40,6 +40,7 @@
 
 #### 💻 My projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
+- [TrasHack hackathon 2024](https://github.com/GreenCatsTeam/hackathon-2024)
 - [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-tinkoff-2023)
 - [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
 - [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
