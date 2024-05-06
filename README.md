@@ -28,6 +28,7 @@
 - TensorFlow, Keras
 
 #### 📜 My certificates:
+- [TrasHack III place](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
 - [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
 - [Hackathon: Simple Physics Data Science, Saratov State University, 2022](https://oec-static.sgu.ru/storage/oec-ruby/ipsilon//uploads/portfolio/file/user_file/304411/SGU1.jpg)
 - [Introduction to DS and ML 2022](https://stepik.org/cert/1596482)
