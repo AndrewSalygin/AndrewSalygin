@@ -28,9 +28,9 @@
 - TensorFlow, Keras
 
 #### 📜 My certificates:
-- [TrasHack III place](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
+- [Hackathon: TrasHack III place, 2024](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
 - [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
-- [Hackathon: Simple Physics Data Science, Saratov State University, 2022](https://oec-static.sgu.ru/storage/oec-ruby/ipsilon//uploads/portfolio/file/user_file/304411/SGU1.jpg)
+- [Hackathon: Simple Physics Data Science, 2022](https://oec-static.sgu.ru/storage/oec-ruby/ipsilon//uploads/portfolio/file/user_file/304411/SGU1.jpg)
 - [Introduction to DS and ML 2022](https://stepik.org/cert/1596482)
 - [Basic Statistics I 2022](https://stepik.org/cert/1569856)
 - [Basic Statistics II 2022](https://stepik.org/cert/1584809)
@@ -41,7 +41,7 @@
 
 #### 💻 My projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
-- [TrasHack hackathon 2024](https://github.com/GreenCatsTeam/hackathon-2024)
+- [Hackathon: TrasHack 2024](https://github.com/GreenCatsTeam/hackathon-2024)
 - [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-tinkoff-2023)
 - [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
 - [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
