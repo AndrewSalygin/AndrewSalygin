@@ -27,6 +27,10 @@
 - XGBoost, CatBoost
 - TensorFlow, Keras
 
+#### ✨ Frontend:
+- HTML, CSS, JavaScript
+- React
+
 #### 📜 My certificates:
 - [Hackathon: TrasHack III place, 2024](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
 - [Java 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
