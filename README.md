@@ -13,7 +13,7 @@
 - Jira, Confluence
 
 #### ☕︎ Java:
-- Spring (Core, Web, DAO, ORM, Boot, REST)
+- Spring (Core, Web, Boot, Data, Security)
 - JUnit, Mockito
 - Slick2D
 
