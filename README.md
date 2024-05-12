@@ -29,6 +29,7 @@
 
 #### ✨ Frontend:
 - HTML, CSS, JavaScript
+- Bootstrap
 - React
 
 #### 📜 My certificates:
