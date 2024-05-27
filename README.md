@@ -1,36 +1,28 @@
 ### Hi there, I'm Andrew 👋
 ---
 #### 🛠 Skills:
-- Java, Python
-- Gradle, Maven
-- PostgreSQL, MSSQL
+![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=gradle,maven,docker,kubernetes,prometheus,grafana,git,linux&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=postgres,kafka&theme=dark)
+
+![My Skills](https://skillicons.dev/icons?i=spring,react,bootstrap&theme=dark)
+
+**Also:**
+- MSSQL
 - Liquibase
-- Docker, Kubernetes
-- Prometheus, Grafana
 - OpenAPI, Swagger
-- Kafka
-- Git, Linux
 - Jira, Confluence
 
 #### ☕︎ Java:
-- Spring (Core, Web, Boot, Data, Security)
 - JUnit, Mockito
 - Slick2D
 
 #### 🐍 Python:
-- Numpy, Scipy
-- Pandas
+- Numpy, Scipy, Pandas, Sklearn, Statsmodels
 - Matplotlib, Seaborn, Plotly
-- Statsmodels, Sklearn
-- Imblearn
-- Nltk
-- XGBoost, CatBoost
-- TensorFlow, Keras
-
-#### ✨ Frontend:
-- HTML, CSS, JavaScript
-- Bootstrap
-- React
+- Imblearn, Nltk, XGBoost, CatBoost, TensorFlow, Keras
 
 #### 📜 My certificates:
 - [Hackathon: TrasHack III place, 2024](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
@@ -39,10 +31,6 @@
 - [Introduction to DS and ML 2022](https://stepik.org/cert/1596482)
 - [Basic Statistics I 2022](https://stepik.org/cert/1569856)
 - [Basic Statistics II 2022](https://stepik.org/cert/1584809)
-
-#### 💬 Languages:
-- English - B2 Upper intermediate
-- Russian - C2 Native Speaker
 
 #### 💻 My projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
@@ -57,6 +45,10 @@
 - [Huffman Code C#](https://github.com/AndrewSalygin/HuffmanCode)
 - [Red-Black Tree C#](https://github.com/AndrewSalygin/RBTree_cs)
 - [Terminal Checkers С++](https://github.com/AndrewSalygin/checkers)
+
+#### 💬 Languages:
+- English - B2 Upper intermediate
+- Russian - C2 Native Speaker
 
 #### 📫 Other resources:
 - Telegram: [@andrew_salygin](https://t.me/andrew_salygin)
