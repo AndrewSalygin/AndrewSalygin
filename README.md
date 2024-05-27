@@ -46,7 +46,8 @@
 
 #### 💻 My projects:
 - [LinkTracker (Github/StackOverFlow) Java](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
-- [Hackathon: TrasHack 2024](https://github.com/GreenCatsTeam/hackathon-2024)
+- Hospital management system ([Backend Java](https://github.com/AndrewSalygin/hospital-backend) / [Frontend React](https://github.com/AndrewSalygin/hospital-frontend))
+- [Hackathon: TrasHack 2024 - Garbage collection app Java](https://github.com/GreenCatsTeam/hackathon-2024)
 - [Tinkoff course 1 sem Java](https://github.com/AndrewSalygin/java-course-tinkoff-2023)
 - [Virus game on graphs Java](https://github.com/AndrewSalygin/graphCourse/tree/game)
 - [Graphs algorithms Java](https://github.com/AndrewSalygin/graphCourse)
