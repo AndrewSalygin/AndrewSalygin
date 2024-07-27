@@ -28,6 +28,7 @@
 - [Hackathon: TrasHack III place, 2024](https://disk.yandex.ru/i/HQl1HWBkAVBlVQ)
 - [Tinkoff: Java Backend Development, 2024](https://disk.yandex.ru/i/tBif1s8YLlX7ew)
 - [Flutter & Dart - The Complete Guide, 2024](https://www.udemy.com/certificate/UC-64e459fb-c641-471a-89a9-552683b16192/)
+- [Spring - Full course. Boot, Hibernate, Security, REST, 2024](https://www.udemy.com/certificate/UC-0725e832-f213-43d6-8837-0bc39db2881f/)
 - [Java, 2023](https://www.udemy.com/certificate/UC-637732ed-8dfe-4ba9-a6f2-2f1685d7a682/)
 - [Hackathon: Simple Physics Data Science, 2022](https://disk.yandex.ru/i/xAJP3aQFUHW4hA)
 - [Introduction to DS and ML, 2022](https://stepik.org/cert/1596482)
