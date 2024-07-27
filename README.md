@@ -1,13 +1,13 @@
 ### Hi there, I'm Andrew 👋
 ---
 #### 🛠 Skills:
-![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,python,dart,js,html,css&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=gradle,maven,docker,kubernetes,prometheus,grafana,git,linux&theme=dark)
 
 ![My Skills](https://skillicons.dev/icons?i=postgres,kafka&theme=dark)
 
-![My Skills](https://skillicons.dev/icons?i=spring,react,bootstrap&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=spring,flutter,react,bootstrap&theme=dark)
 
 **Also:**
 - MSSQL
