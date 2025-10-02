@@ -42,18 +42,9 @@
 - [Java] [ Hackathon: TrasHack 2024 - Garbage collection app](https://github.com/GreenCatsTeam/hackathon-2024)
 - [Java] [ Virus game on graphs](https://github.com/AndrewSalygin/graphCourse/tree/game)
 - [Java] [ Graphs algorithms](https://github.com/AndrewSalygin/graphCourse)
-- [Java] [ Maze Generator and Solver](https://github.com/AndrewSalygin/java-course-tinkoff-2023/tree/master/src/main/java/edu/hw9/Task3)
-- [Java] [ Fractal Flame Generator](https://github.com/AndrewSalygin/java-course-tinkoff-2023/tree/master/src/main/java/edu/project4)
-- [Java] [ MD5 encrypter and bruteforce](https://github.com/AndrewSalygin/java-course-tinkoff-2023/tree/master/src/main/java/edu/hw8/Task3)
-- [Java] [ Log analyzer](https://github.com/AndrewSalygin/java-course-tinkoff-2023/tree/master/src/main/java/edu/project3)
-- [Java] [ Hangman](https://github.com/AndrewSalygin/java-course-tinkoff-2023/tree/master/src/main/java/edu/project1)
-- [Java] [ Tinkoff course 1 sem](https://github.com/AndrewSalygin/java-course-tinkoff-2023)
 - [Python] [ The problem of choosing a metric](https://github.com/AndrewSalygin/metrics)
-- [C#] [ Windows forms for Training Center](https://github.com/AndrewSalygin/forms_for_training_center)
-- [C#] [ Console program for Training Center](https://github.com/AndrewSalygin/FitnessCenterConsole3Levels)
 - [C#] [ Huffman Code](https://github.com/AndrewSalygin/HuffmanCode)
 - [C#] [ Red-Black Tree](https://github.com/AndrewSalygin/RBTree_cs)
-- [C++] [ Terminal Checkers](https://github.com/AndrewSalygin/checkers)
 
 #### 💬 Languages:
 - English - B2 Upper intermediate
