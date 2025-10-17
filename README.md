@@ -37,14 +37,15 @@
 
 
 #### 💻 My projects:
-- [Java] [ LinkTracker (Github/StackOverFlow)](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
+- [Java] [VKWallParser](https://github.com/AndrewSalygin/vkwallparser)
+- [Java] [LinkTracker (Github/StackOverFlow)](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
 - [[Backend Java]](https://github.com/AndrewSalygin/hospital-backend) / [[Frontend React]](https://github.com/AndrewSalygin/hospital-frontend) Hospital management system
-- [Java] [ Hackathon: TrasHack 2024 - Garbage collection app](https://github.com/GreenCatsTeam/hackathon-2024)
-- [Java] [ Virus game on graphs](https://github.com/AndrewSalygin/graphCourse/tree/game)
-- [Java] [ Graphs algorithms](https://github.com/AndrewSalygin/graphCourse)
-- [Python] [ The problem of choosing a metric](https://github.com/AndrewSalygin/metrics)
-- [C#] [ Huffman Code](https://github.com/AndrewSalygin/HuffmanCode)
-- [C#] [ Red-Black Tree](https://github.com/AndrewSalygin/RBTree_cs)
+- [Java] [Hackathon: TrasHack 2024 - Garbage collection app](https://github.com/GreenCatsTeam/hackathon-2024)
+- [Java] [Virus game on graphs](https://github.com/AndrewSalygin/graphCourse/tree/game)
+- [Java] [Graphs algorithms](https://github.com/AndrewSalygin/graphCourse)
+- [Python] [The problem of choosing a metric](https://github.com/AndrewSalygin/metrics)
+- [C#] [Huffman Code](https://github.com/AndrewSalygin/HuffmanCode)
+- [C#] [Red-Black Tree](https://github.com/AndrewSalygin/RBTree_cs)
 
 #### 💬 Languages:
 - English - B2 Upper intermediate
