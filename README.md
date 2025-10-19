@@ -37,7 +37,8 @@
 
 
 #### 💻 My projects:
-- [Java] [VKWallParser](https://github.com/AndrewSalygin/vkwallparser)
+- [Java] [vkmongo2pg](https://github.com/AndrewSalygin/vkmongo2pg)
+- [Java] [vkwallparser](https://github.com/AndrewSalygin/vkwallparser)
 - [Java] [LinkTracker (Github/StackOverFlow)](https://github.com/AndrewSalygin/LinkTracker-Tinkoff)
 - [[Backend Java]](https://github.com/AndrewSalygin/hospital-backend) / [[Frontend React]](https://github.com/AndrewSalygin/hospital-frontend) Hospital management system
 - [Java] [Hackathon: TrasHack 2024 - Garbage collection app](https://github.com/GreenCatsTeam/hackathon-2024)
